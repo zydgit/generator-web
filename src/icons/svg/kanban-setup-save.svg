@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>button/看板调整后·确认</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="button/看板调整后·确认">
+            <g transform="translate(9.000000, 12.000000)">
+                <circle id="椭圆形-copy备份-9" stroke="#EEEEEE" cx="22" cy="22" r="22"></circle>
+                <g id="对勾" transform="translate(15.125000, 15.125000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="15.125" height="15.125"></rect>
+                    <path d="M0.75625,9.3760758 C0.75625,9.3760758 4.34775229,10.9549512 6.13299329,14.36875 C8.27726848,10.1441736 12.3932057,6.20366059 13.6125,5.9122263 C13.6125,4.16392963 13.6125,3.4448781 13.6125,0.75625 C8.69978952,4.17004882 6.34075778,10.4559897 6.34075778,10.4559897 L3.75620228,7.56250772 L0.75625,9.3760758 Z" id="路径" fill="#2C77E5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

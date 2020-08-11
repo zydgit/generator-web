@@ -1,0 +1,49 @@
+/**
+* I think element-ui's default theme color is too light for long-term use.
+* So I modified the default color and you can modify it to your liking.
+**/
+
+/* theme color */
+$--color-primary: #2c77e5;
+$--color-success: #13ce66;
+$--color-warning: #FFBA00;
+$--color-danger: #ff4949;
+// $--color-info: #1E1E1E;
+
+$--button-font-weight: 400;
+$--button-border-radius: 2px;
+
+// $--color-text-regular: #1f2d3d;
+
+$--border-color-light: #dfe4ed;
+$--border-color-lighter: #e6ebf5;
+
+$--table-border: 1px solid #dfe6ec;
+
+$--button-mini-border-radius: 4px;
+
+// 表格线条
+$--table-border: 1px solid #F0F2F5;
+// 表格hover 背景色
+$--table-row-hover-background-color: #E6EEFB;
+// 当前行
+$--table-current-row-background-color: #E6EEFB;
+// 表头背景色
+$--table-header-background-color: #f7f8fa;
+// 表头字体颜色
+$--table-header-font-color: #1e2126;
+
+// 选择框的默认颜色
+//$--checkbox-font-color: #000;
+//$--radio-font-color: #000;
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  theme: $--color-primary;
+}

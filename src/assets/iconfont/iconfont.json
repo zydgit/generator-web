@@ -1,0 +1,240 @@
+{
+  "id": "1837701",
+  "name": "clbfs-web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15284016",
+      "name": "func-btn-active",
+      "font_class": "yincangjiaohu",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "15284006",
+      "name": "func-btn-",
+      "font_class": "yincangmoren1",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "15269245",
+      "name": "hamburger",
+      "font_class": "shouqicaidan",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "15254042",
+      "name": "系统工具",
+      "font_class": "xitonggongju",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "15254043",
+      "name": "系统监控",
+      "font_class": "xitongjiankong",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "15105679",
+      "name": "置顶@3x",
+      "font_class": "zhiding3x",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "15072824",
+      "name": "结算管理",
+      "font_class": "jiesuanguanli",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15072825",
+      "name": "业财核对报表",
+      "font_class": "yecaiheduibaobiao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15072826",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15072827",
+      "name": "收入确认报表",
+      "font_class": "shouruquerenbaobiao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15072828",
+      "name": "财务基础配置",
+      "font_class": "caiwujichupeizhi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "15072829",
+      "name": "报表定义",
+      "font_class": "baobiaodingyi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "15072830",
+      "name": "财务报表",
+      "font_class": "caiwubaobiao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "15072831",
+      "name": "会计引擎",
+      "font_class": "huijiyinqing",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15072832",
+      "name": "期间管理 2",
+      "font_class": "qijianguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "15072833",
+      "name": "基础配置",
+      "font_class": "jichupeizhi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "15072834",
+      "name": "月结看板",
+      "font_class": "yuejiekanban",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "15072845",
+      "name": "期间选择",
+      "font_class": "qijianxuanze",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "15072846",
+      "name": "看板（有投影",
+      "font_class": "kanbanyoutouying",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "15072847",
+      "name": "左滑动中",
+      "font_class": "zuohuadongzhong",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "15072848",
+      "name": "左滑动前",
+      "font_class": "zuohuadongqian",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15072849",
+      "name": "置首",
+      "font_class": "zhishou",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "15072853",
+      "name": "看板鼠标放置组合",
+      "font_class": "kanbanshubiaofangzhizuhe",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "15072854",
+      "name": "看板置顶组合",
+      "font_class": "kanbanzhidingzuhe",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "15072855",
+      "name": "看板选中组合",
+      "font_class": "kanbanxuanzhongzuhe",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "15072856",
+      "name": "看板默认组合",
+      "font_class": "kanbanmorenzuhe",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "15072858",
+      "name": "看板调整后·确认",
+      "font_class": "kanbantiaozhenghouqueren",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15072859",
+      "name": "看板调整后",
+      "font_class": "kanbantiaozhenghou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "15072860",
+      "name": "恢复初始中",
+      "font_class": "huifuchushizhong",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "15072861",
+      "name": "看板调整后·新增",
+      "font_class": "kanbantiaozhenghouxinzeng",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15072862",
+      "name": "新增卡片中",
+      "font_class": "xinzengkapianzhong",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15072863",
+      "name": "恢复初始前",
+      "font_class": "huifuchushiqian",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "704918",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "eb41",
+      "unicode_decimal": 60225
+    }
+  ]
+}
